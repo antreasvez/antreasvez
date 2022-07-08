@@ -52,6 +52,9 @@
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="css3" width="40" height="40"/>
   </a>
+  <a href="https://www.swi-prolog.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Screenshot_of_SWI_prolog_icon.png" alt="css3" width="40"height="40"/>
+</a>
   
 </p>
 
