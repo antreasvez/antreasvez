@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Antreas
 
 - 👀 I’m interested in Software Engineering, Machine learning, Computer Vision and Robotics
-- 🔭 I’m currently working on my Master's Thesis on Organ Segmentation in PET-CT images using Deep Learning
+- 🔬 PhD Researcher in Biomedical Engineering & ML
 - 📫 How to reach me: avezakis@biomed.ntua.com
 
 
